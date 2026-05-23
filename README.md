@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mohammed HossamEldin</h1>
+<h1 align="center">I'm Mohammed HossamEldin</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | Java & Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-hossam11&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-hossam11" /> </p>
 
-- 🔭 I’m currently working on [GlucoWave Application](https://github.com/Mohammed-Hossam11/glucowave_app.git)
+- I’m currently working on [GlucoWave Application](https://github.com/Mohammed-Hossam11/glucowave_app.git)
 
-- 🌱 I’m currently learning **Microservices, advanced Spring Security, and backend system design**
+- I’m currently learning **Microservices, advanced Spring Security, and backend system design**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/2/folders/1jTo-2FJRGgCTrW-MjJEXJpqI-_imIA9P](https://drive.google.com/drive/u/2/folders/1jTo-2FJRGgCTrW-MjJEXJpqI-_imIA9P)
+- All of my projects are available at [https://drive.google.com/drive/u/2/folders/1jTo-2FJRGgCTrW-MjJEXJpqI-_imIA9P](https://drive.google.com/drive/u/2/folders/1jTo-2FJRGgCTrW-MjJEXJpqI-_imIA9P)
 
-- 📫 How to reach me **mohammedhossam528@gmail.com**
+- How to reach me **mohammedhossam528@gmail.com**
 
-- ⚡ Fun fact **I enjoy building real-world backend and frontend systems and turning ideas into working software.**
+- Fun fact **I enjoy building real-world backend and frontend systems and turning ideas into working software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
